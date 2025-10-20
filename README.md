@@ -1,0 +1,1 @@
+# Narxoz_Guruh_A
