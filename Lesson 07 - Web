@@ -1,0 +1,51 @@
+Lesson 07 - Search engines
+Examples of search engine:
+Google
+Bing
+Yahoo
+DuckDuckGo
+Baidu(china)
+Yandex(Rossiya)
+Common Google search operation and their uses:
+Operator
+""
+site:
+filetype:
+OR
+intitle:
+inurl:
+before:
+define:
+after:
+related:
+Web
+Google Chrome
+
+Mozilla
+
+FireFox
+
+Microsoft Edge
+
+Safari
+
+Opera
+
+Brave
+
+Tor Browser
+
+⚙️ Three “layers” of the web:
+Surface Web: The normal internet — Google, YouTube, Wikipedia. Search engines can find it.
+
+Deep Web: Pages not indexed by search engines — like emails, private databases, or school portals. (Most of what we use daily is actually part of the deep web — just private.)
+
+Dark Web: A small part of the deep web that’s intentionally hidden. You need special browsers like Tor to access .onion sites. It’s used for:
+
+✅ Privacy, activism, journalism in restricted countries
+
+❌ Illegal activity (drugs, stolen data, etc.)
+
+⚠️ Important note:
+
+The dark web isn’t always illegal — it’s just hidden. But it’s not safe for casual browsing — lots of scams, malware, and shady stuff. Never access it unless you really know what you’re doing and have a reason (like cybersecurity research).
