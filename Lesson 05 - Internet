@@ -1,0 +1,30 @@
+Lesson 05 - Internet
+Bugungi o'tgan mavzular:
+
+Server & Client
+IP:Internet Protocol
+DNS:Domain Name System
+LAN:Local Area Network
+VPN:Virtual Private Network
+IPv4 =>
+10.10.114.98 va h.k.
+
+IPv6 =>
+fee80::60b1w%wgg34:hf35 va h.k.
+
+Server& Client
+Server - tarmoqda xizmat ko'rsatuvchi kompyuter bo'lib, ma'lumotlarni mijozlarga yuboradi.
+Client - serverga ulanib, undan ma'lumot qabul qilubchi qurilma, masalan(kompyuter,telefon).
+IP
+IP - tarmoqlarda qurilmalarni bir biridan farqlash uchun ishlatiladihan manzil tizimi. Har bir qurilmaning o'zining IP manzili bor.
+Powershelldaa
+ping
+ipconfig
+nslookup
+DNS
+DNS - internetdagi domen nomlarini (masalan,edu.uz) IP o'zgartiruvchi tizim.
+Misol:facebook-> 123.141.32.34.63 #LAN LAN - kichik hududdagi qurilmalarni bog'lovchi tarmoq tizimi, masalan, uyda yoki ofisdagi wifi.
+VPN
+VPN - sizning IP manziligizni xavfsiz maxfiy tarmoqqa ulab berish usuli.
+
+proton VPN
